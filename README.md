@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <div align="center">
-  <a href="https://github.com/PlayerJoker">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PlayerJoker&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlayerJoker&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="https://github.com/Queiroz07">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Queiroz07&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queiroz07&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -27,8 +27,8 @@
 <div> 
  
   <a href="https://www.instagram.com/fbioaugusto_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fabioaugusto.contato@yahoo.com"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabio-augusto-limade-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gqs.gabriel@gmail.com"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-queiroz-a5a7391b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
