@@ -9,8 +9,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Tosca" height="50" width="60" src="https://planview-media.s3.us-west-2.amazonaws.com/wp-content/uploads/2022/10/tricentis-tosca-logo.png">
-  <img align="center" alt="Jira" height="50" width="60" src=https://assets.stickpng.com/images/62a9ad808ff6441a2952daba.png>
   <img align="center" alt="IntelliJ" height="50" width="60" src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png>
   
 </div>
