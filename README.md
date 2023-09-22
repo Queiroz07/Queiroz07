@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 ![](https://komarev.com/ghpvc/?username=Queiroz07)
 <div align="center">
   <a href="https://github.com/Queiroz07">
